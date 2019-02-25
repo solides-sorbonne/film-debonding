@@ -5,3 +5,7 @@
 2. Redo the experiment with the brown tape. Do you observe the same behavior ?
 
 3. Conclude from these observations whether the peeling force can be used to characterize the resistance of an adhesive tape, irrespective of the loading conditions ?
+
+You can report here your observation
+
+https://goo.gl/forms/39zoIu6QCj52qsmK2
