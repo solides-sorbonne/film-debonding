@@ -15,3 +15,7 @@ Laurent Ponson - laurent.ponson@sorbonne-universite.fr, https://laurentponson.co
 Link for the Gc measurement form:
 
 https://goo.gl/forms/NwZwes15ScXQyovR2
+
+Here you can get all the answers:
+
+https://docs.google.com/spreadsheets/d/1MRg5moRsXJ21FjKDlQXmQTUl3NycT6y3ivye5tnelbs/edit?usp=sharing
